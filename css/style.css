@@ -50,10 +50,13 @@ img {
 
 @media only screen and (max-device-width: 720px) {
     * + * {
-      margin-top: 0.7em;
+      margin-top: 0.1em;
+    }
+    h1 {
+      margin-top: 0.1em;
     }
     .call-to-action {
-      margin-top: 0.7em;
+      margin-top: 0.1em;
     }
     img {
         width: 90%;
