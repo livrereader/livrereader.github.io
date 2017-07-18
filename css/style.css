@@ -49,6 +49,12 @@ img {
 }
 
 @media only screen and (max-device-width: 720px) {
+    * + * {
+      margin-top: 0.7em;
+    }
+    .call-to-action {
+      margin-top: 0.7em;
+    }
     img {
         width: 90%;
     }
