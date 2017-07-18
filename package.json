@@ -8,7 +8,7 @@
     "jus": "^0.24.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "jus serve"
   },
   "repository": {
     "type": "git",
